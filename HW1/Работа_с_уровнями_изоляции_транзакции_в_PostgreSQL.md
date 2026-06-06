@@ -8,8 +8,7 @@ P.S. Ранее доступ уже был пробит, поэтому пока
 4. Открыть 2 сессии, войти в пользователя postgres и подключиться к PostgreSQL
 <img width="2876" height="794" alt="image" src="https://github.com/user-attachments/assets/f2edf21e-5bb7-466f-92fe-d0bb2d7f7d2b" />
 5. Выключаем autocommit
-
-<img width="672" height="100" alt="image" src="https://github.com/user-attachments/assets/754b3def-8618-4156-93bf-843221a6ff5b" />
+<img width="1424" height="442" alt="image" src="https://github.com/user-attachments/assets/754b3def-8618-4156-93bf-843221a6ff5b" />
 7. Создает в первой сессии таблицы "Перевозки" и добавляем туда нужные данные
 <img width="1424" height="442" alt="image" src="https://github.com/user-attachments/assets/5b18eefa-b90a-435f-9bdb-e6e2b9bb56bf" />
 8. Проверяем текущий уровень изоляции
