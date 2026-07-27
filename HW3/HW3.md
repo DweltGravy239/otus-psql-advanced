@@ -1,6 +1,7 @@
 Создадим виртуальную машину и поставим туда PostgreSQL.
 <img width="1740" height="164" alt="image" src="https://github.com/user-attachments/assets/67ddfc3b-942c-417a-8a46-32e82d68e514" />
 <img width="823" height="180" alt="image" src="https://github.com/user-attachments/assets/cedc885e-57cc-4c9a-8b55-f63f362e9e46" />
+
 Создадим таблицу
 <img width="2088" height="892" alt="1" src="https://github.com/user-attachments/assets/b6b670ac-04bd-4a2e-9bc2-962ae1edd37e" />
 Добавим к виртуальной машине новый диск
