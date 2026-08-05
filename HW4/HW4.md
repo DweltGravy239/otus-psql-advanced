@@ -35,5 +35,17 @@
 Создаем кластер patroni:
 <img width="1650" height="448" alt="image" src="https://github.com/user-attachments/assets/7bdd5dae-e8aa-4c9f-9b9d-a084b28568a4" />
 Устанавливаем и настраиваем HaProxy:
+<img width="2162" height="618" alt="image" src="https://github.com/user-attachments/assets/92f9320f-8851-4eef-8249-06bcb703d79e" />
+<img width="1828" height="414" alt="image" src="https://github.com/user-attachments/assets/bee8f438-97d6-4149-9170-e99513760047" />
+<img width="2860" height="820" alt="image" src="https://github.com/user-attachments/assets/415730f8-296b-4aab-93a7-94c10539ebfe" />
+Проверяем, что балансировщик работает:
+<img width="1536" height="634" alt="image" src="https://github.com/user-attachments/assets/5fe72fde-e908-4051-baba-cf6a14e5a52b" />
+Пробуем уронить ноду, чтоб проверить, что будет:
+<img width="1614" height="416" alt="image" src="https://github.com/user-attachments/assets/173d7d50-0662-440a-9fe7-e5204b1d0212" />
+<img width="1670" height="570" alt="image" src="https://github.com/user-attachments/assets/07269b0d-0291-45bc-b21f-91eaa5c152d4" />
+Возвращаем ноду в рабочее состояние:
+<img width="2866" height="1398" alt="image" src="https://github.com/user-attachments/assets/033dfadf-cad0-4bce-a5fb-960de659c65d" />
+Устанавливаем pg_basebackup и пробуем его в работе:
+<img width="2324" height="422" alt="image" src="https://github.com/user-attachments/assets/e5522de5-57cd-4620-a475-3d48f90a45f7" />
 
 
