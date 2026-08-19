@@ -13,6 +13,7 @@
 <img width="1311" height="1207" alt="image" src="https://github.com/user-attachments/assets/e4ad33be-285d-44e3-aff3-149e98cad835" />
 Перезагружаем конфигурации:
 <img width="833" height="348" alt="image" src="https://github.com/user-attachments/assets/09ba81cc-498d-4b94-94e3-6b98803e3113" />
+
 Попробуем еще раз проверить через pgbench:
 <img width="1141" height="710" alt="image" src="https://github.com/user-attachments/assets/feef8549-bad3-4101-b4d2-7d736f8d29bc" />
 Теперь обратимся на специализированный сайт и попробуем настроить согласно их рекомендациям:
